@@ -23,3 +23,4 @@ Screenshots of the design are uploaded in this repository.
 ## Author
 Naveed Ibrahim Shaikh
 Updated README with screenshots and outcome
+https://www.figma.com/design/bDkvAXRAsvkE7H4LuC9qWA/Task-1?t=6P91VEHmGy9Erqsh-1
