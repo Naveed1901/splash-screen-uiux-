@@ -22,3 +22,4 @@ Screenshots of the design are uploaded in this repository.
 
 ## Author
 Naveed Ibrahim Shaikh
+Updated README with screenshots and outcome
